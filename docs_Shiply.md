@@ -87,7 +87,7 @@ Other apps like driver ap and touchscreen app are frontend-based, sendind reques
      https://www.figma.com/proto/jijAvzmo9h8uR9TxKqVhCe/Shiply-Main-Design?type=design&node-id=396-3280&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A4 (Click to go to touchscreen to see parcel simulator)
    - Click "Log in as driver" to see driver app
    
- Main Client URL:[ https://shiply-frontend.onrender.com/](https://shiply-consumer-v2.vercel.app/)
+ Main Client URL: https://shiply-consumer-v2.vercel.app/
 
  Backend URL: https://shiply-server.onrender.com/
 
@@ -206,7 +206,7 @@ shiply-app/frontend/
 
 ###### Login with username test@gmail.com and password testtest
 
-Main Client URL:[ https://shiply-frontend.onrender.com/](https://shiply-consumer-v2.vercel.app/)
+Main Client URL: https://shiply-consumer-v2.vercel.app/
 
  Backend URL: https://shiply-server.onrender.com/
 
