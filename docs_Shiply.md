@@ -87,18 +87,13 @@ Other apps like driver ap and touchscreen app are frontend-based, sendind reques
      https://www.figma.com/proto/jijAvzmo9h8uR9TxKqVhCe/Shiply-Main-Design?type=design&node-id=396-3280&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A4 (Click to go to touchscreen to see parcel simulator)
    - Click "Log in as driver" to see driver app
    
-   #### Client app
-   https://shiply-consumer-v2.vercel.app/
-   
-   ![](/Users/maria/Library/Application%20Support/marktext/images/2023-12-05-16-46-04-image.png)
-   
-   #### Driver app
-   
-   ![](/Users/maria/Library/Application%20Support/marktext/images/2023-12-05-16-45-17-image.png)
-   
-   #### Parcel simulator (Touchscreen) app
-   
-   ![](/Users/maria/Library/Application%20Support/marktext/images/2023-12-05-16-46-37-image.png)
+ Main Client URL:[ https://shiply-frontend.onrender.com/](https://shiply-consumer-v2.vercel.app/)
+
+ Backend URL: https://shiply-server.onrender.com/
+
+Touchscreen URL: https://shiply-touchscreen.onrender.com
+
+ Driver URL: https://shiply-driver.onrender.com
    
    #### Robot app
    
