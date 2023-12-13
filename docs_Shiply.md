@@ -88,6 +88,7 @@ Other apps like driver ap and touchscreen app are frontend-based, sendind reques
    - Click "Log in as driver" to see driver app
    
    #### Client app
+   https://shiply-consumer-v2.vercel.app/
    
    ![](/Users/maria/Library/Application%20Support/marktext/images/2023-12-05-16-46-04-image.png)
    
@@ -210,7 +211,7 @@ shiply-app/frontend/
 
 ###### Login with username test@gmail.com and password testtest
 
-Main Client URL: https://shiply-frontend.onrender.com/
+Main Client URL:[ https://shiply-frontend.onrender.com/](https://shiply-consumer-v2.vercel.app/)
 
  Backend URL: https://shiply-server.onrender.com/
 
