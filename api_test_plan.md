@@ -61,8 +61,6 @@
 
 ---
 
-Sure, I can help you create a test plan for the Parcel endpoints. Let's structure the information in a similar way to the User Endpoints test plan.
-
 ## Parcel APIs
 
 ### 1. **Get all parcels**
